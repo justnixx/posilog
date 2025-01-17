@@ -20,6 +20,8 @@ Visit the app: [Posilog](https://posilog.com/)
 - **Gratitude Journaling**: Log and reflect on daily gratitude moments.
 - **Push Notifications**: Stay motivated with gentle reminders to journal.
 - **PWA (Progressive Web App)**: Offline support for seamless use across devices.
+- **Automatic Theme Detection**:
+  The app automatically detects the user's system theme preference (light or dark mode) and adjusts its appearance accordingly.
 
 ## Table of Contents
 
